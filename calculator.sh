@@ -24,6 +24,10 @@ mutiplication = a*b
 server 0
 >>>>>>> mergeexm
 
+<<<<<<< HEAD
 
 percentage
 
+=======
+log decimal
+>>>>>>> 52a522f (log)
