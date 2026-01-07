@@ -7,3 +7,4 @@ subtraction
 
 division = a/b
 
+mutiplication = a*b
