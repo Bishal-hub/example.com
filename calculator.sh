@@ -23,3 +23,7 @@ mutiplication = a*b
 
 server 0
 >>>>>>> mergeexm
+
+
+percentage
+
